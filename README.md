@@ -5,7 +5,7 @@ Sublime Text - reindent on save
 
 This is simple plugin to call *reindent* each time you save your file.
 
-What you should be avare is that sublimes *reindent* is not perfect.
+What you should be aware is that sublime's *reindent* is not perfect.
 
 Installation
 ------------
