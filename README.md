@@ -7,6 +7,11 @@ This is simple plugin to call *reindent* each time you save your file.
 
 What you should be aware is that sublime's *reindent* is not perfect.
 
+You can specify file types which you want to be reindented on save:
+
+    "reindent_on_save": ["css", "SCSS", "html", "Js"]
+
+
 Installation
 ------------
 
